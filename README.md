@@ -1,5 +1,12 @@
-### Hi there 👋
+<h1 align="center"> Namaste, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Naveen P M</h1>
 
+<p > 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ashishrawat2911/count.svg" />
+</p>
 <!--
 **DevilTech555/DevilTech555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
