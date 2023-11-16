@@ -5,7 +5,7 @@
 
 <p > 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ashishrawat2911/count.svg" />
+  <img src="https://profile-counter.glitch.me/DevilTech555/count.svg" />
 </p>
 <!--
 **DevilTech555/DevilTech555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
